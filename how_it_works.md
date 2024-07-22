@@ -9,7 +9,7 @@ https://ubuntustudio.org/download/
 Flash the iso to usb stick and install Ubuntu-Studio on your disk.
 
 
-## 2. Ubdate Ubuntu Studio 24.04 LTS
+## 2. Update Ubuntu Studio 24.04 LTS
 update the system
 
 

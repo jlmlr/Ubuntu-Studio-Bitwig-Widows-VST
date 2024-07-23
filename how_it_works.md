@@ -50,7 +50,8 @@ cd ~/.local/share/yabridge/
 ```
 than add location for VST from wine
 ``` js
-./yabridgectl add ~/.wine/drive_c/Program\ Files/Common\ Files/VST3/
+./yabridgectl add ~/.wine/drive_c/"Program Files/Common Files"/VST3/
+
 ```
 uname = username from u currently session
 is that not working you can go over /home/uname/.wine/drive_c/Program\ Files/Common\ Files/VST3/
